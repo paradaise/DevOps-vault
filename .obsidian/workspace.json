@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Долги.md",
+                "file": "Test Notebook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Долги"
+              "title": "Test Notebook"
             }
           }
         ]
@@ -181,9 +181,9 @@
   },
   "active": "5b9157d188c2806b",
   "lastOpenFiles": [
+    "Долги.md",
     "Test Notebook.md",
     "Test PC.md",
-    "Долги.md",
     "To-do.md",
     "База знаний DevOps/Логирование и мониторинг/Grafana loki.md",
     "База знаний.md"
