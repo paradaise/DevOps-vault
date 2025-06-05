@@ -32,9 +32,10 @@
 - ##### QUERY[GET]
 Запрашиваем только одно поле `name` ![[graphql_query.png]]
 Запрашиваем конкретного пользователя по `id` и его вложенные поля
-![[Pasted image 20250605212928.png]]
+![[graphql_query2.png]]
 __fragments__ - позволяют объединять часто запрашиваемые данные и поля, и использовать уже их в запросах(для переиспользования)
 ![[graphql_fragments.png]]
-- ##### MUTATUINO[POST]
+- ##### MUTATION[POST]
+![[graphql_mutation.png]]
 - ##### SUBSCRIPTION[REAL-TIME]
 
