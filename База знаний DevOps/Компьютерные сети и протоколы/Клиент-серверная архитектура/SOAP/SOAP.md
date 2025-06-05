@@ -3,4 +3,4 @@
 ##### Может использоваться с любым протоколом прикладного уровня (SMTP,FTP,HTTP)
 
 
-![[WSDL.png.png]]
+![[WSDL.png.png]]![[SOAP_flow.png]]
