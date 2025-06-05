@@ -4,3 +4,5 @@
 
 ##### Изначально разработался для передачи HTML, но сейчас можно передать почти любые форматы файлов.
 ![[http_scturcture.png]]![[http_methods.png]]
+
+![[http_statuscode.png]]
