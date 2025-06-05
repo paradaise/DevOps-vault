@@ -4,3 +4,4 @@
 
 
 ![[WSDL.png.png]]![[SOAP_flow.png]]
+![[SOAP_msg.png]]
