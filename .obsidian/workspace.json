@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c6e608ba11f334b9",
+        "id": "5af93c8143558c49",
         "type": "tabs",
         "children": [
           {
-            "id": "5ea0b327693fa2d0",
+            "id": "c38c76eb112c9749",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "База знаний DevOps/Компьютерные сети и протоколы/Клиент-серверная архитектура/SOAP/SOAP_msg.png"
+                "file": "База знаний DevOps/Компьютерные сети и протоколы/Клиент-серверная архитектура/SOAP/SOAP.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "SOAP_msg"
+              "icon": "lucide-file",
+              "title": "SOAP"
             }
           }
         ]
@@ -177,10 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e40572b9d613666",
+  "active": "c38c76eb112c9749",
   "lastOpenFiles": [
-    "База знаний DevOps/Компьютерные сети и протоколы/Клиент-серверная архитектура/SOAP/SOAP.md",
     "База знаний DevOps/Компьютерные сети и протоколы/Клиент-серверная архитектура/SOAP/SOAP_msg.png",
+    "База знаний DevOps/Компьютерные сети и протоколы/Клиент-серверная архитектура/SOAP/SOAP.md",
     "База знаний DevOps/Компьютерные сети и протоколы/Клиент-серверная архитектура/SOAP/WSDL.png.png",
     "База знаний DevOps/Компьютерные сети и протоколы/Клиент-серверная архитектура/SOAP/SOAP_flow.png",
     "База знаний DevOps/Компьютерные сети и протоколы/Клиент-серверная архитектура/RestAPI/RestAPI.md",
