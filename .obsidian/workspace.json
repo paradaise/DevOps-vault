@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний DevOps/Компьютерные сети и протоколы/Клиент-серверная архитектура/GraphQL/GraphQL.md",
+                "file": "База знаний DevOps/Компьютерные сети и протоколы/Клиент-серверная архитектура/WebSockets/WebSockets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GraphQL"
+              "title": "WebSockets"
             }
           }
         ]
@@ -181,11 +181,11 @@
   },
   "active": "13a889fc9a83713b",
   "lastOpenFiles": [
+    "База знаний DevOps/Компьютерные сети и протоколы/Клиент-серверная архитектура/GraphQL/GraphQL.md",
     "База знаний DevOps/Компьютерные сети и протоколы/Клиент-серверная архитектура/GraphQL/graphql_fragments.png",
     "База знаний DevOps/Компьютерные сети и протоколы/Клиент-серверная архитектура/GraphQL/graphql_mutation.png",
     "База знаний DevOps/Компьютерные сети и протоколы/Клиент-серверная архитектура/GraphQL/grapql_diff.png",
     "База знаний DevOps/Компьютерные сети и протоколы/Клиент-серверная архитектура/GraphQL/graphql_query2.png",
-    "База знаний DevOps/Компьютерные сети и протоколы/Клиент-серверная архитектура/GraphQL/GraphQL.md",
     "База знаний DevOps/Компьютерные сети и протоколы/Клиент-серверная архитектура/GraphQL/graphql_chema.png",
     "База знаний DevOps/Компьютерные сети и протоколы/Клиент-серверная архитектура/GraphQL/graphql_diff.png",
     "База знаний DevOps/Компьютерные сети и протоколы/Клиент-серверная архитектура/GraphQL/graphql_query.png",
