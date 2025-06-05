@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "024ea6dfbb3fc572",
+        "id": "c70dfb791a4d832b",
         "type": "tabs",
         "children": [
           {
-            "id": "13a889fc9a83713b",
+            "id": "1c0fc83dc220f231",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250605222655.png"
+                "file": "База знаний DevOps/Компьютерные сети и протоколы/Клиент-серверная архитектура/gRPC/gRPC.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250605222655"
+              "icon": "lucide-file",
+              "title": "gRPC"
             }
           }
         ]
@@ -177,13 +179,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e40572b9d613666",
+  "active": "1c0fc83dc220f231",
   "lastOpenFiles": [
-    "Pasted image 20250605221230.png",
-    "Pasted image 20250605222655.png",
-    "База знаний DevOps/Компьютерные сети и протоколы/Клиент-серверная архитектура/gRPC/gRPC.md",
     "База знаний DevOps/Компьютерные сети и протоколы/Клиент-серверная архитектура/gRPC/gRPC_diff.png",
+    "База знаний DevOps/Компьютерные сети и протоколы/Клиент-серверная архитектура/gRPC/gRPC_protofile.png",
+    "База знаний DevOps/Компьютерные сети и протоколы/Клиент-серверная архитектура/gRPC/gRPC_ptotobuf.png",
     "База знаний DevOps/Компьютерные сети и протоколы/Клиент-серверная архитектура/gRPC/gRPC_schema.png",
+    "База знаний DevOps/Компьютерные сети и протоколы/Клиент-серверная архитектура/gRPC/gRPC.md",
     "База знаний DevOps/Компьютерные сети и протоколы/Клиент-серверная архитектура/RPC/RPC.md",
     "База знаний DevOps/Компьютерные сети и протоколы/Клиент-серверная архитектура/RPC/RPC_flow.png",
     "База знаний DevOps/Компьютерные сети и протоколы/Клиент-серверная архитектура/WebSockets/WebSockets.md",
