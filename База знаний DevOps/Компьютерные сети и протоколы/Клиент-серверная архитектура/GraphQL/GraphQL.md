@@ -26,10 +26,15 @@
 ![[grapql_diff.png]]
 ![[graphql_chema.png]]
 ![[graphql_diff.png]]
-
-Основные типы запросов:
+### Сначала:
+![[graphql_schema.png]]
+#### Основные типы запросов:
 - ##### QUERY[GET]
+Запрашиваем только одно поле `name` ![[graphql_query.png]]
+Запрашиваем конкретного пользователя по `id` и его вложенные поля
+![[Pasted image 20250605212928.png]]
+__fragments__ - позволяют объединять часто запрашиваемые данные и поля, и использовать уже их в запросах(для переиспользования)
+![[graphql_fragments.png]]
 - ##### MUTATUINO[POST]
 - ##### SUBSCRIPTION[REAL-TIME]
 
-![[Pasted image 20250605212549.png]]
