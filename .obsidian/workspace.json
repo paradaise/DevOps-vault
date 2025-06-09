@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний DevOps/Логирование и мониторинг/Promtail.md",
+                "file": "База знаний DevOps/Логирование и мониторинг/Логирование и Мониторинг.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Promtail"
+              "title": "Логирование и Мониторинг"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a4f1c615aa19be6d",
@@ -182,12 +181,12 @@
   },
   "active": "1c0fc83dc220f231",
   "lastOpenFiles": [
+    "База знаний DevOps/Логирование и мониторинг/Promtail.md",
     "База знаний DevOps/Логирование и мониторинг/Grafana loki.md",
     "База знаний DevOps/Логирование и мониторинг/Grafana.md",
     "База знаний DevOps/Логирование и мониторинг/Логирование и Мониторинг.md",
     "База знаний DevOps/Логирование и мониторинг/monitor&logs.png",
     "База знаний DevOps/Логирование и мониторинг/Prometheus.md",
-    "База знаний DevOps/Логирование и мониторинг/Promtail.md",
     "База знаний DevOps/Компьютерные сети и протоколы/VDI&RDS/VDI отличия от RDS.md",
     "База знаний DevOps/Компьютерные сети и протоколы/VDI&RDS/VDI.md",
     "База знаний DevOps/Компьютерные сети и протоколы/VDI&RDS/RDSvsVDI.png",
