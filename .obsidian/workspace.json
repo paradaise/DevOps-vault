@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний DevOps/Языки программирования/Node.JS/NPM.md",
+                "file": "Долги.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NPM"
+              "title": "Долги"
             }
           }
         ]
@@ -181,7 +181,6 @@
   },
   "active": "e8b801a65b3e0368",
   "lastOpenFiles": [
-    "База знаний DevOps/Языки программирования/Node.JS/Node.JS.md",
     "База знаний DevOps/Языки программирования/Node.JS/NPM.md",
     "База знаний DevOps/Linux/Process.md",
     "База знаний DevOps/Linux/Linux.md",
@@ -226,6 +225,7 @@
     "База знаний DevOps/Компьютерные сети и протоколы/Компьютерные сети и протоколы.md",
     "База знаний DevOps/Компьютерные сети и протоколы/Клиент-серверная архитектура/tRPC/tRPC.md",
     "База знаний DevOps/Компьютерные сети и протоколы/Клиент-серверная архитектура",
-    "База знаний DevOps/Компьютерные сети и протоколы/Клиент-серверная архитектура/RestFULL API/RestFULL API.md"
+    "База знаний DevOps/Компьютерные сети и протоколы/Клиент-серверная архитектура/RestFULL API/RestFULL API.md",
+    "База знаний DevOps/Логирование и мониторинг/Untitled.md"
   ]
 }
