@@ -11,14 +11,12 @@
             "id": "e8b801a65b3e0368",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Что сделал.md",
-                "mode": "source",
-                "source": false
+                "file": "База знаний DevOps/Логирование и мониторинг/monitor&logs.png"
               },
-              "icon": "lucide-file",
-              "title": "Что сделал"
+              "icon": "lucide-image",
+              "title": "monitor&logs"
             }
           }
         ]
@@ -181,8 +179,8 @@
   },
   "active": "e8b801a65b3e0368",
   "lastOpenFiles": [
-    "To-do.md",
     "Что сделал.md",
+    "To-do.md",
     "База знаний DevOps/Логирование и мониторинг/Grafana loki.md",
     "База знаний DevOps/Языки программирования/Node.JS/NPM.md",
     "База знаний DevOps/Языки программирования/Node.JS/Node.JS.md",
