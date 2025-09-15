@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e8b801a65b3e0368",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "База знаний DevOps/Логирование и мониторинг/monitor&logs.png"
-              },
-              "icon": "lucide-image",
-              "title": "monitor&logs"
-            }
-          },
-          {
             "id": "6ec840b4083f98ff",
             "type": "leaf",
             "state": {
@@ -44,21 +32,8 @@
               "icon": "lucide-file",
               "title": "Python"
             }
-          },
-          {
-            "id": "04bfedafbca7c347",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,8 +192,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04bfedafbca7c347",
+  "active": "6ec840b4083f98ff",
   "lastOpenFiles": [
+    "База знаний DevOps/Языки программирования/Python/Python.md",
     "conflict-files-obsidian-git.md",
     "База знаний DevOps/Логирование и мониторинг/monitor&logs.png",
     "База знаний DevOps/Языки программирования/Node.JS/Node.JS.md",
