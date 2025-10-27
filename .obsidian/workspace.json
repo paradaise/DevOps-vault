@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "98c646f7416f09d8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
+          },
+          {
             "id": "9a9cc97885515071",
             "type": "leaf",
             "state": {
@@ -33,7 +45,8 @@
               "title": "Python"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,7 +205,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ec840b4083f98ff",
+  "active": "98c646f7416f09d8",
   "lastOpenFiles": [
     "База знаний DevOps/Языки программирования/Python/Python.md",
     "conflict-files-obsidian-git.md",
