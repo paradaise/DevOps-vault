@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "ca7eb46a3363dc6f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          },
+          {
             "id": "f3fc7ab3cb9bd39b",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,6 +211,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -208,7 +221,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d51e3328219d065",
+  "active": "ca7eb46a3363dc6f",
   "lastOpenFiles": [
     "Долги.md",
     "conflict-files-obsidian-git.md",
