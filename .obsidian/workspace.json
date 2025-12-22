@@ -4,31 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "be9ac36a28b1530a",
+        "id": "d344d3af58f51ed8",
         "type": "tabs",
         "children": [
           {
-            "id": "9a3f15b110823cb4",
+            "id": "38d702c2ad9c6313",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "split-diff-view",
               "state": {
-                "currentVersion": "1.10.3"
+                "aFile": "Долги.md",
+                "bFile": "Долги.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "diff",
+              "title": "Diff: Долги"
             }
           },
           {
-            "id": "47bf8467a97aaf03",
+            "id": "a6d18669f8d8b13d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "split-diff-view",
               "state": {
-                "currentVersion": "1.10.6"
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ],
@@ -191,19 +196,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47bf8467a97aaf03",
+  "active": "a6d18669f8d8b13d",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "База знаний DevOps/Языки программирования/Node.JS/Node.JS.md",
+    "База знаний DevOps/Языки программирования/Node.JS/Untitled.md",
+    "Долги.md",
     "База знаний.md",
     "База знаний DevOps/Языки программирования/Python/Python.md",
     "База знаний DevOps/Логирование и мониторинг/monitor&logs.png",
-    "Долги.md",
-    "conflict-files-obsidian-git.md",
-    "База знаний DevOps/Языки программирования/Node.JS/Node.JS.md",
     "База знаний DevOps/Языки программирования/Node.JS/NPM.md",
     "Что сделал.md",
     "To-do.md",
     "База знаний DevOps/Логирование и мониторинг/Grafana loki.md",
-    "База знаний DevOps/Языки программирования/Node.JS/Untitled.md",
     "База знаний DevOps/Linux/Process.md",
     "База знаний DevOps/Linux/Linux.md",
     "База знаний DevOps/Linux/code_example.png",
