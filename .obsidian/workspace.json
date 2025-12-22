@@ -4,20 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ea4259444934b46b",
+        "id": "be9ac36a28b1530a",
         "type": "tabs",
         "children": [
           {
-            "id": "18c175e12efbc597",
+            "id": "9a3f15b110823cb4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
+          },
+          {
+            "id": "47bf8467a97aaf03",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18c175e12efbc597",
+  "active": "47bf8467a97aaf03",
   "lastOpenFiles": [
     "База знаний.md",
     "База знаний DevOps/Языки программирования/Python/Python.md",
