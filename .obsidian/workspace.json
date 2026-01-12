@@ -18,8 +18,8 @@
                 "aRef": "HEAD",
                 "bRef": ""
               },
-              "icon": "diff",
-              "title": "Diff: Долги"
+              "icon": "lucide-ghost",
+              "title": "split-diff-view"
             }
           },
           {
